@@ -140,5 +140,6 @@ for (let i = 0; i < 10; i++) {
 
 // type conversion and type coercion
 // functions
+//functions are used to run snippets of code
 // git config --global user.email 'her email'
 // git config --global user.name 'her username'
