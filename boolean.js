@@ -15,7 +15,7 @@
 
 
 
-// //boolean value is used to make decision of true or FALSE
+// //boolean value is used to make decision of true or FALSE .< > <= >= == ===
 // const isMarried = false
 
 // // comparison operators ><

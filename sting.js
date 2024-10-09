@@ -17,7 +17,9 @@ console.log(lastName.length);
 console.log(firstName.length);
 // const mypassword = 'typo
 
-//concatennation
+//concatennation is-
+//joining strings together
+//const firstName+lastname
 
 const fullName =firstName + " "+ lastName;
 console.log(fullName.length)
@@ -40,6 +42,7 @@ const myEmail = "torahenterprise@gmail.com";
 console.log(myEmail.length);
 console.log(myEmail.toUpperCase());
 console.log(myEmail.includes("e"))
+
 //console.log("google.com"));
 //indexOf,lastIndexOf
 
@@ -71,7 +74,7 @@ console.log(surname.substr(0,5));
 
 
 
-//template literals-allolws us to formay variables into strings
+//template literals-allolws us to formay variables into strings`${varName}
 //backticks `the Book ${bookTitle}`
 // description2 = `The book ${bookTitle} written by ${author} was published in the year`
 

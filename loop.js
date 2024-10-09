@@ -1,8 +1,8 @@
-// Loops-when perform it in multiple time
+// Loops-when perform it in multiple time(it use to perfome repititive action)
 //types
 //for,while,do -while loop also means iteration or recursion
 // for(initializer;condition;incremnet){line of code}
-//initializer is like declearing a variable
+//initializer is  declearing a variable
 //infiniteloop
 
  //for (let i = 0; i <= 10; i++) {
@@ -143,3 +143,7 @@ for (let i = 0; i < 10; i++) {
 //functions are used to run snippets of code
 // git config --global user.email 'her email'
 // git config --global user.name 'her username'
+
+
+
+//continue and break

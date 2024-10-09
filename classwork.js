@@ -134,6 +134,59 @@ if (marksBmi > johnsBmi) {
     default:
       console.log("ivalid grade");
   }
+
+
+
+  //let const var
+//const variable cannot be reassign
+//example
+
+
+
+const Dolphins1 = 98;
+const Dolphine2 = 108;
+const Dolphins3 = 89;
+const Pandas1 = 88;
+const Pandas2= 91;
+const Pandas3 = 110;
+
+const totalDolphinScore = Dolphins1 + Dolphins2 + Dolphins3;
+const totalPandascore = Pandas1 + Pandas2 + Pandas3;
+
+const avgDolphinsScore = totalDolphinScore / 3;
+const  avgPandasScore = totalPandascore /3 ;
+
+console.log(`Average Dolphins score is ${avgDolphin}`);
+console.log(`Average Pandas score is ${avgPandas`});
+
+    //compare the team average score to determine the winner of the compitition and print it to the console and test for draw too
+
+    if (avgDolphins > avgPandas) {
+    console.log("Dolphins wins");
+    }else if (avgDolphin < avgPanda) {
+    console.log("Pandas wins");
+    }else{
+    console.log("This is a tie");
+    }
+
+    if (avgDolphins > avgPandas && avgDolphin >= 100) {
+    console.log("Dolphins wins");
+    }else if (avgDolphin < avgPanda && avgPandas <= 100) {
+    console.log("Pandas Wins");
+    }else{
+    console.log("No team wins");
+    }
+    
+    if (avgDolphins > avgPandas && avgDolphin >= 100) {
+    console.log("Dolphins wins");
+    }else if (avgDolphin < avgPanda && avgPandas <= 100) {
+    console.log("Pandas Wins");
+     } else if (avgDolphins === avgPanda && avgDolphin >= 100 && avgPanda >=100)
+       console.log("this is a draw");
+    }else{
+    console.log("No team wins");
+    }
+ 
   
 
 
